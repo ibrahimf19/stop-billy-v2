@@ -1,0 +1,14 @@
+ PROJECT PLAN
+
+ Step1: Upload all pictures of characters 
+ Step2: Create Background upload picture, place on canvas
+ Step3: Create Billy (antagonist)
+ Step4: Upload toy pictures
+ Step5: Create a function for spawning toys(create group)
+ Step6: Set up firebase
+ Step7: Create game plot/players
+ Step8: Create player controls
+ Step9: Upload sound effects(Laugh for billy, BG music, Kids crying, Teacher yelling, Angry parents)
+ Step10: Set up score system
+ Step11: Set up game over code and winning conditions
+ Step12: Restart button
